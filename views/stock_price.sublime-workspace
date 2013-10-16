@@ -1,0 +1,1520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ope",
+				"operation"
+			],
+			[
+				"recurs",
+				"recurse_words"
+			],
+			[
+				"recur",
+				"recurse_words"
+			],
+			[
+				"in",
+				"info_hash"
+			],
+			[
+				"add",
+				"add_amenities"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"ameni",
+				"amenity"
+			],
+			[
+				"am",
+				"amenities"
+			],
+			[
+				"Fo",
+				"FooException"
+			],
+			[
+				"smo",
+				"smoothie"
+			],
+			[
+				"sm",
+				"smoothie"
+			],
+			[
+				"smoo",
+				"smoothie_ingredients"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"red",
+				"red"
+			],
+			[
+				"blue",
+				"blue_room"
+			],
+			[
+				"prom",
+				"prompt_and_chomp"
+			],
+			[
+				"get",
+				"get_valid_response"
+			],
+			[
+				"marco",
+				"marco"
+			],
+			[
+				"pers",
+				"person2"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"le",
+				"legal_name_change"
+			],
+			[
+				"new",
+				"new_name"
+			],
+			[
+				"ad",
+				"advanced_calc"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"squ",
+				"square_root"
+			],
+			[
+				"di",
+				"divide"
+			],
+			[
+				"basic",
+				"basic_calc"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"str",
+				"str3"
+			],
+			[
+				"be",
+				"because"
+			],
+			[
+				"pro",
+				"prompt_and_chomp"
+			],
+			[
+				"un",
+				"uniq"
+			],
+			[
+				"favor",
+				"favorites"
+			],
+			[
+				"favorite",
+				"favorite_numbers"
+			],
+			[
+				"item",
+				"item_list"
+			],
+			[
+				"number",
+				"number_count"
+			],
+			[
+				"fa",
+				"fav_color"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"del",
+				"Delmer"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"cha",
+				"chapter1"
+			],
+			[
+				"ls",
+				"last_name"
+			],
+			[
+				"middl",
+				"middle_name"
+			],
+			[
+				"border-t",
+				"border-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"wat",
+				"water_room"
+			],
+			[
+				"bea",
+				"bear_room"
+			],
+			[
+				"bear",
+				"bear_moved"
+			],
+			[
+				"how",
+				"how_much"
+			],
+			[
+				"prin",
+				"printNumbers"
+			],
+			[
+				"print",
+				"printSixes"
+			],
+			[
+				"start",
+				"start_point"
+			],
+			[
+				"st",
+				"start_point"
+			],
+			[
+				"cu",
+				"current_file"
+			],
+			[
+				"pri",
+				"print_a_line"
+			],
+			[
+				"c",
+				"current_line"
+			],
+			[
+				"pr",
+				"print_a_line"
+			],
+			[
+				"amo",
+				"amount_of_cheese"
+			],
+			[
+				"chee",
+				"cheese_and_crackers"
+			],
+			[
+				"cheese",
+				"cheese_count"
+			],
+			[
+				"print_",
+				"print_two"
+			],
+			[
+				"arg",
+				"arg1"
+			],
+			[
+				"ar",
+				"arg2"
+			],
+			[
+				"line",
+				"line1"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"txt",
+				"txt_again"
+			],
+			[
+				"r",
+				"raw_input"
+			],
+			[
+				"for",
+				"formatter"
+			],
+			[
+				"my",
+				"my_weight_kg"
+			],
+			[
+				"m",
+				"my_weight"
+			],
+			[
+				"a",
+				"average_passengers_per_car"
+			],
+			[
+				"car",
+				"carpool_capacity"
+			],
+			[
+				"ca",
+				"cars_not_driven"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/imogen/ga/projects/stocks_app/stocks.rb",
+			"settings":
+			{
+				"buffer_size": 559,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "layout.erb",
+			"settings":
+			{
+				"buffer_size": 510,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "form.erb",
+			"settings":
+			{
+				"buffer_size": 255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stock_price.erb",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "error.erb",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/imogen/ga/projects/stocks_app/public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1160,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"xik",
+				"Create Xiki Buffer"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 434.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/imogen/ga/projects/ritly/README.md",
+		"/Users/imogen/ga/projects/tic-tac-toe/tic-tac-toe/.git/COMMIT_EDITMSG",
+		"/Users/imogen/ga/projects/movie_search/movies.rb",
+		"/Users/imogen/ga/front-end/ex5_css_selectors_source/style.css",
+		"/Users/imogen/ga/labs/exceptions.rb",
+		"/Users/imogen/ga/projects/calculator/calculator.rb",
+		"/Users/imogen/ga/sinatra/views/hello.erb",
+		"/Users/imogen/ga/sinatra/views/calculator.erb",
+		"/Users/imogen/ga/sinatra/views/layout.erb",
+		"/Users/imogen/ga/sinatra/sinatra-first.rb",
+		"/Users/imogen/ga/sinatra/views/other_page.erb",
+		"/Users/imogen/ga/sinatra/calculator.rb",
+		"/Users/imogen/ga/sinatra/views/other_page.erb.rb",
+		"/Users/imogen/ga/projects/happi_tails/README.md",
+		"/Users/imogen/ga/labs/quiz.rb",
+		"/Users/imogen/ga/labs/moto.rb",
+		"/Users/imogen/ga/projects/rental_app/main.rb",
+		"/Users/imogen/ga/projects/rental_app/building.rb",
+		"/Users/imogen/ga/projects/rental_app/apartment.rb",
+		"/Users/imogen/ga/projects/rental_app/person.rb",
+		"/Users/imogen/ga/WDI_SF_4_Work/camels/week_01/day_5/negomi/blender.rb",
+		"/Users/imogen/ga/labs/choose_your_adventure3.rb",
+		"/Users/imogen/ga/labs/room.rb",
+		"/Users/imogen/ga/labs/quit.rb",
+		"/Users/imogen/ga/labs/field.rb",
+		"/Users/imogen/ga/labs/forest.rb",
+		"/Users/imogen/ga/labs/main.rb",
+		"/Users/imogen/ga/labs/kyle_adventure.rb",
+		"/Users/imogen/ga/labs/choose_your_adventure.rb",
+		"/Users/imogen/ga/labs/snow_white.rb",
+		"/Users/imogen/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/imogen/ga/labs/json_lab.rb",
+		"/Users/imogen/ga/labs/methods.rb",
+		"/Users/imogen/ga/WDI_SF_4_Work/camels/week_01/day_2/negomi/mta_lab.rb",
+		"/Users/imogen/ga/labs/hashes.rb",
+		"/Users/imogen/ga/labs/nested_arrays.rb",
+		"/Users/imogen/ga/labs/conditionals.rb",
+		"/Users/imogen/ga/labs/interleave.rb",
+		"/Users/imogen/ga/WDI_SF_4_Work/camels/week_01/day_3/negomi/calculator.md",
+		"/Users/imogen/ga/WDI_SF_4_Work/camels/week_01/day_3/negomi/calculator.rb",
+		"/Users/imogen/ga/labs/weather.rb",
+		"/Users/imogen/ga/labs/pallindrome.rb",
+		"/Users/imogen/ga/labs/challenge.rb",
+		"/Users/imogen/ga/labs/acoping.rb",
+		"/Users/imogen/ga/WDI_SF_4_Work/camels/week_01/day_2/negomi/test.rb",
+		"/Users/imogen/ga/WDI_SF_4_Work/camels/week_01/day_2/negomi/mta_lab.md",
+		"/Users/imogen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/imogen/ga/labs/shopping_list.rb",
+		"/Users/imogen/ga/labs/math.rb",
+		"/Users/imogen/ga/labs/multiplication_table.rb",
+		"/Users/imogen/ga/labs/loops.rb",
+		"/Users/imogen/ga/labs/1000_puzzle.rb",
+		"/Users/imogen/ga/homework/week-1/Week 01 - Day 01 Homework.rb",
+		"/Users/imogen/ga/labs/guess-the-number-game.rb",
+		"/Users/imogen/ga/labs/cyoa.rb",
+		"/Users/imogen/ga/labs/file.rb",
+		"/Users/imogen/ga/homework/week-1/6680290/test.rb",
+		"/Users/imogen/ga/homework/week-1/6680290/ask_name.rb",
+		"/Users/imogen/ga/monday_afternoon/conditional.rb",
+		"/Users/imogen/ga/wdi-prework/rubeque/fizzbuzz.rb",
+		"/Users/imogen/ga/wdi-prework/learn-to-program/contents.rb",
+		"/Users/imogen/code/wdi-prework/blackjack.rb",
+		"/Users/imogen/code/wdi-prework/learn-to-program/greeting.rb",
+		"/Users/imogen/code/wdi-prework/learn-to-program/angry-boss.rb",
+		"/Users/imogen/monday_afternoon/drinking_age.rb",
+		"/Users/imogen/monday_afternoon/conditional.rb",
+		"/Users/imogen/monday_afternoon/cyoa.rb",
+		"/Users/imogen/monday_afternoon/file.rb",
+		"/Users/imogen/code/wdi-prework/learn-to-program/name-letters.rb",
+		"/Users/imogen/git_hug/.git/COMMIT_EDITMSG",
+		"/Users/imogen/code/wdi-prework/say-hello.rb",
+		"/Users/imogen/code/wdi-prework/print-nums.rb",
+		"/Users/imogen/code/wdi-prework/name.rb",
+		"/Users/imogen/code/learn-to-program/favorite-number.rb",
+		"/Users/imogen/code/learn-to-program/favorite-number",
+		"/Users/imogen/code/learn-to-program/name.rb",
+		"/Users/imogen/code/todo.txt",
+		"/Users/imogen/code/wdi-prework/about-me/about-me.html",
+		"/Users/imogen/code/wdi-prework/about-me/css/style.css",
+		"/Users/imogen/code/rubysam/test.rb",
+		"/Users/imogen/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/imogen/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/imogen/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/Soda Dark.sublime-theme",
+		"/Users/imogen/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/imogen/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+		"/Users/imogen/code/learn-python-the-hard-way/README.md",
+		"/Users/imogen/code/about-me/README.md",
+		"/Users/imogen/code/railsgirls/app/views/ideas/show.html.erb",
+		"/Users/imogen/code/railsgirls/config/environments/development.rb",
+		"/Users/imogen/code/railsgirls/app/models/user.rb",
+		"/Users/imogen/code/railsgirls/app/views/ideas/_form.html.erb",
+		"/Users/imogen/code/railsgirls/config/application.rb",
+		"/Users/imogen/code/railsgirls/config/routes.rb",
+		"/Users/imogen/code/railsgirls/app/views/layouts/application.html.erb",
+		"/Users/imogen/code/learn-python-the-hard-way/ex35.py",
+		"/Users/imogen/code/railsgirls/Gemfile",
+		"/Users/imogen/code/railsgirls/app/models/rails",
+		"/Users/imogen/code/railsgirls/app/models/idea.rb",
+		"/Users/imogen/code/railsgirls/app/models/app/models/idea.rb",
+		"/Users/imogen/code/railsgirls/app/models/version",
+		"/Users/imogen/code/railsgirls-guides/railsgirls.github.com/.git/COMMIT_EDITMSG",
+		"/Users/imogen/code/railsgirls-guides/railsgirls.github.com/_posts/2013-01-20-design.markdown",
+		"/Users/imogen/code/railsgirls/app/assets/stylesheets/application.css",
+		"/Users/imogen/code/railsgirls/app/views/ideas/index.html.erb",
+		"/Users/imogen/code/railsgirls/app/controllers/ideas_controller.rb",
+		"/Users/imogen/code/railsgirls/app/models/comment.rb",
+		"/Users/imogen/code/railsgirls/db/migrate/20130810195038_create_comments.rb",
+		"/Users/imogen/code/railsgirls/app/views/ideas/new.html.erb",
+		"/Users/imogen/code/railsgirls/app/views/ideas/edit.html.erb",
+		"/Users/imogen/code/about-me/css/style.css",
+		"/Users/imogen/code/railsgirls/public/index.html",
+		"/Users/imogen/projects/railsgirls/config/routes.rb",
+		"/Users/imogen/code/learn-python-the-hard-way/.git/COMMIT_EDITMSG",
+		"/Users/imogen/code/printSixes.js",
+		"/Users/imogen/code/printSixes.py",
+		"/Users/imogen/code/browser-diet/browser-diet/.git/COMMIT_EDITMSG",
+		"/Users/imogen/code/css-buttons/.git/COMMIT_EDITMSG",
+		"/Users/imogen/code/css-buttons/css-buttons.css",
+		"/Users/imogen/code/css-buttons/css-buttons.html",
+		"/Users/imogen/projects/railsgirls/app/assets/stylesheets/application.css",
+		"/Users/imogen/.gitconfig",
+		"/Users/imogen/code/css-buttons.html",
+		"/Users/imogen/code/css-buttons.css",
+		"/Users/imogen/code/css-buttons/README",
+		"/Users/imogen/code/learn-python-the-hard-way/.git/ex29.py",
+		"/Users/imogen/code/learn-python-the-hard-way/.git/ex30.py",
+		"/Users/imogen/code/learn-python-the-hard-way/ex31.py",
+		"/Users/imogen/code/learn-python-the-hard-way/ex32.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Text",
+			"#",
+			"id",
+			"h2",
+			"result",
+			"20",
+			"score",
+			"anything",
+			"sinatra",
+			"audi",
+			"Fiat",
+			"last",
+			"first",
+			"fib",
+			"= ",
+			"yamaha",
+			"moto_speed",
+			"elsif",
+			"b",
+			"superblend",
+			"state",
+			"'",
+			"binding.pry",
+			"binding",
+			"to_s",
+			"to_i",
+			"chomp",
+			"* ",
+			"letter",
+			"loop",
+			"puts",
+			"==",
+			"puts ",
+			"list",
+			"my_list",
+			"my_nested_list",
+			"gold",
+			"()",
+			"end",
+			"  \"",
+			"chomp",
+			"\n",
+			"chomp",
+			"chomps",
+			"\n",
+			"!\"",
+			"json?callback=twitterCallback2&count=4\"",
+			"            <div class=\"row\">\n                <div class=\"social-media-min\">\n                    <p><a href=\"http://twitter.com/imogenwentworth\">Twitter</a> | <a href=\"http://uk.linkedin.com/in/imogenwentworth\">LinkedIn</a> | <a href=\"http://pinterest.com/imogenwentworth/\">Pinterest</a></p>\n                </div>\n            <div class=\"row\">\n                <div class=\"span12 copyright\">\n                    <p>Copyright &copy; 2013 Imogen Wentworth</p>\n                </div>\n            </div>\n            </div>",
+			"<div class=\"copyright\">",
+			"<div class=\"span12 copyright\">",
+			"                <div class=\"copyright\">\n                    <p>Copyright &copy; 2013 Imogen Wentworth</p>\n                </div>",
+			"    <div class=\"wide-footer\">\n        <div class=\"container footer\">\n            <div class=\"row\">\n                <div class=\"span6\"> \n                    <h2>Say hello</h2>\n                    <p>If you're looking for someone equally good with words and ideas, <br /><a href=\"https://twitter.com/intent/tweet?&related=imogenwentworth&screen_name=imogenwentworth\">drop me a Tweet</a> and let's talk.</p>\n                    <p>I'm always up for getting involved in exciting projects, teaming up <br />with lovely creatives or hearing feedback on my work.</p>\n                    <div class=\"social-media\">\n                        <p><a href=\"http://twitter.com/imogenwentworth\">Twitter</a> | <a href=\"http://uk.linkedin.com/in/imogenwentworth\">LinkedIn</a> | <a href=\"http://pinterest.com/imogenwentworth/\">Pinterest</a></p>\n                    </div>\n                </div>                    \n                <div class= \"span5 offset1 twitter-feed\">\n                    <h2>\n                        <a target=\"_blank\" href=\"http://twitter.com/intent/user?screen_name=imogenwentworth\">Follow my Tweets</a><img src=\"img/twitter-bird-dark-bgs.png\">\n                    </h2>   \n                    <ul id=\"twitter_update_list\"></ul>\n                </div>\n            </div>\n            <div class=\"row\">\n                <div class=\"span12 copyright\">\n                    <p>Copyright &copy; 2013 Imogen Wentworth</p>\n                </div>\n            </div>\n        </div><!--end container footer-->\n    </div><!--end wide footer-->",
+			".png\" alt=\"\"",
+			"<p><a href=\"quirky.html\">quirky</a> &bull; <a id=\"portfolio-active\" href=\"interesting.html\">interesting</a> &bull; <a href=\"beautiful.html\">beautiful</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a href=\"quirky.html\">quirky</a> &bull; <a href=\"interesting.html\">interesting</a> &bull; <a id=\"portfolio-active\" href=\"beautiful.html\">beautiful</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a href=\"quirky.html\">quirky</a> &bull; <a href=\"interesting.html\">interesting</a> &bull; id=\"portfolio-active\" <a href=\"beautiful.html\">beautiful</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a id=\"portfolio-active\" href=\"quirky.html\">quirky</a> &bull; <a href=\"interesting.html\">interesting</a> &bull; <a href=\"beautiful.html\">beautiful</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"href=\"quirky.html\">quirky</a> &bull; <a href=\"interesting.html\">interesting</a> &bull; <a href=\"beautiful.html\">beautiful</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a id=\"portfolio-active\" href=\"quirky.html\">quirky</a> &bull; <a href=\"interesting.html\">interesting</a> &bull; <a href=\"beautiful.html\">beautiful</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a href=\"http://uk.linkedin.com/in/imogenwentworth\">LinkedIn</a> | <a href=\"http://twitter.com/imogenwentworth\">Twitter</a> | <a href=\"http://pinterest.com/imogenwentworth/\">Pinterest</a></p>",
+			"mailto:imogen@imogenation.net\">drop me a message",
+			"mailto:imogen@imogenation.net\">drop me a Tweet",
+			" | <a href=\"http://www.delicious.com/imogenwentworth\">Delicious</a>",
+			"https://api.twitter.com/1/statuses/user_timeline/imogenwentworth.json?callback=twitterCallback2&count=3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"json?callback=twitterCallback2&count=3\"",
+			"            <div class=\"row\">\n                <div class=\"social-media-min\">\n                    <p><a href=\"http://twitter.com/imogenwentworth\">Twitter</a> | <a href=\"http://uk.linkedin.com/in/imogenwentworth\">LinkedIn</a> | <a href=\"http://pinterest.com/imogenwentworth/\">Pinterest</a></p>\n                </div>\n                <div class=\"copyright\">\n                    <p>Copyright &copy; 2013 Imogen Wentworth</p>\n                </div>\n            </div>",
+			"<div class=\"span12 copyright\">",
+			"<div class=\"copyright\">",
+			"            <div class=\"row\">\n                <div class=\"span12 copyright\">\n                    <p>Copyright &copy; 2013 Imogen Wentworth</p>\n                </div>\n            </div>",
+			"    <div class=\"wide-footer-min\">\n        <div class=\"container footer\">\n            <div class=\"row\">\n                <div class=\"social-media-min\">\n                    <p><a href=\"http://twitter.com/imogenwentworth\">Twitter</a> | <a href=\"http://uk.linkedin.com/in/imogenwentworth\">LinkedIn</a> | <a href=\"http://pinterest.com/imogenwentworth/\">Pinterest</a></p>\n                </div>\n                <div class=\"copyright\">\n                    <p>Copyright &copy; 2013 Imogen Wentworth</p>\n                </div>\n            </div>\n        </div><!--end container footer-->\n    </div><!--end wide footer-->",
+			".png\" width=\"220\" height=\"293\" alt=\"\"",
+			"<p><a href=\"print.html\">print</a> &bull; <a href=\"digital.html\">digital</a> &bull; <a id=\"portfolio-active\" href=\"retail.html\">retail</a> &bull; <a href=\"outdoor.html\">outdoor</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a href=\"print.html\">print</a> &bull; <a id=\"portfolio-active\" href=\"digital.html\">digital</a> &bull; <a href=\"retail.html\">retail</a> &bull; <a href=\"outdoor.html\">outdoor</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a href=\"print.html\">print</a> &bull; id=\"portfolio-active\" <a href=\"digital.html\">digital</a> &bull; <a href=\"retail.html\">retail</a> &bull; <a href=\"outdoor.html\">outdoor</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a id=\"portfolio-active\" href=\"print.html\">print</a> &bull; <a href=\"digital.html\">digital</a> &bull; <a href=\"retail.html\">retail</a> &bull; <a href=\"outdoor.html\">outdoor</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"href=\"print.html\">print</a> &bull; <a href=\"digital.html\">digital</a> &bull; <a href=\"retail.html\">retail</a> &bull; <a href=\"outdoor.html\">outdoor</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a id=\"portfolio-active\" href=\"print.html\">print</a> &bull; <a href=\"digital.html\">digital</a> &bull; <a href=\"retail.html\">retail</a> &bull; <a href=\"outdoor.html\">outdoor</a> &bull; <a href=\"portfolio.html\">all</a></p>",
+			"<p><a href=\"http://twitter.com/imogenwentworth\">Twitter</a> | <a href=\"http://uk.linkedin.com/in/imogenwentworth\">LinkedIn</a> | <a href=\"http://pinterest.com/imogenwentworth/\">Pinterest</a></p>",
+			"https://twitter.com/intent/tweet?&related=imogenwentworth&screen_name=imogenwentworth\">drop me a Tweet",
+			"https://twitter.com/intent/tweet?&related=imogenwentworth&screen_name=imogenwentworth",
+			"",
+			"https://api.twitter.com/1/statuses/user_timeline/imogenwentworth.json?callback=twitterCallback2&count=4"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/imogen/ga/projects/stocks_app/stocks.rb",
+					"settings":
+					{
+						"buffer_size": 559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "layout.erb",
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								510,
+								510
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "form.erb",
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								182
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "stock_price.erb",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "error.erb",
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/Users/imogen/ga/projects/stocks_app/public/css/style.css",
+					"settings":
+					{
+						"buffer_size": 1160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"person.rb",
+				"/Users/imogen/ga/labs/person-spec.rb"
+			],
+			[
+				"",
+				"sinatra-first.rb"
+			],
+			[
+				"he",
+				"views/hello.erb"
+			],
+			[
+				"qu",
+				"quiz.rb"
+			],
+			[
+				"condi",
+				"conditionals.rb"
+			],
+			[
+				"name",
+				"/Users/imogen/code/wdi-prework/learn-to-program/name-letters.rb"
+			],
+			[
+				"ruler",
+				"/Users/imogen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
