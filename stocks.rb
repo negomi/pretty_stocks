@@ -1,7 +1,7 @@
+require 'rubygems'
+require 'bundler'
 require 'sinatra'
-require 'sinatra/reloader'
 require 'yahoofinance'
-require 'pry'
 
 get '/' do
   erb :form
